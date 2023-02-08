@@ -1,2 +1,1 @@
-# alx-system_engineering-devops
-not empty
+/root/alx-system_engineering-devops/0x00-shell_basic
